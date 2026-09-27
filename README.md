@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sujalkathait93-lab/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
