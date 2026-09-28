@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sujalkathait93-lab/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sujalkathait93-lab/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
