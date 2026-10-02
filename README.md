@@ -94,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
