@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sujalkathait93-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sujalkathait93-lab/leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sujalkathait93-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sujalkathait93-lab/leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkathait93-lab/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
