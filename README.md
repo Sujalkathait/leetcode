@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkathait93-lab/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sujalkathait93-lab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Timsort
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
