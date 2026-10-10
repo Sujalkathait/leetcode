@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
