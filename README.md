@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/sujalkathait93-lab/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sujalkathait93-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkathait93-lab/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
