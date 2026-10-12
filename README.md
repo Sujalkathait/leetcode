@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sujalkathait93-lab/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sujalkathait93-lab/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sujalkathait93-lab/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
