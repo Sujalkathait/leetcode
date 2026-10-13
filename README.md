@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sujalkathait93-lab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
@@ -192,14 +193,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -238,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sujalkathait93-lab/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
