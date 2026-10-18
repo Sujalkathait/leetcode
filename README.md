@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sujalkathait93-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/sujalkathait93-lab/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sujalkathait93-lab/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sujalkathait93-lab/leetcode/tree/master/0283-move-zeroes) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sujalkathait93-lab/leetcode/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
