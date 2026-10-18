@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sujalkathait93-lab/leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/sujalkathait93-lab/leetcode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/sujalkathait93-lab/leetcode/tree/master/0611-valid-triangle-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sujalkathait93-lab/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sujalkathait93-lab/leetcode/tree/master/0214-shortest-palindrome) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sujalkathait93-lab/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
