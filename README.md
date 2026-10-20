@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sujalkathait93-lab/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sujalkathait93-lab/leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
