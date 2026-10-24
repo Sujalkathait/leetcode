@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
+| [2409-count-days-spent-together](https://github.com/sujalkathait93-lab/leetcode/tree/master/2409-count-days-spent-together) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sujalkathait93-lab/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/sujalkathait93-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/sujalkathait93-lab/leetcode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
