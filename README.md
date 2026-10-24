@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sujalkathait93-lab/leetcode/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sujalkathait93-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
 | [2409-count-days-spent-together](https://github.com/sujalkathait93-lab/leetcode/tree/master/2409-count-days-spent-together) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/sujalkathait93-lab/leetcode/tree/master/0067-add-binary) |
 | [0214-shortest-palindrome](https://github.com/sujalkathait93-lab/leetcode/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/sujalkathait93-lab/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sujalkathait93-lab/leetcode/tree/master/0067-add-binary) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sujalkathait93-lab/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Quicksort
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sujalkathait93-lab/leetcode/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sujalkathait93-lab/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sujalkathait93-lab/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Directed Acyclic Graph
