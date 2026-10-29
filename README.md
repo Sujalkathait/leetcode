@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sujalkathait93-lab/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sujalkathait93-lab/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/sujalkathait93-lab/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sujalkathait93-lab/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Database
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sujalkathait93-lab/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/0226-invert-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/sujalkathait93-lab/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sujalkathait93-lab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/sujalkathait93-lab/leetcode/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sujalkathait93-lab/leetcode/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sujalkathait93-lab/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sujalkathait93-lab/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -322,11 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sujalkathait93-lab/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sujalkathait93-lab/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -348,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
