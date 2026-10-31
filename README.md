@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sujalkathait93-lab/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sujalkathait93-lab/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sujalkathait93-lab/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/sujalkathait93-lab/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sujalkathait93-lab/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sujalkathait93-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/sujalkathait93-lab/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sujalkathait93-lab/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sujalkathait93-lab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/sujalkathait93-lab/leetcode/tree/master/1025-divisor-game) |
+| [3665-twisted-mirror-path-count](https://github.com/sujalkathait93-lab/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sujalkathait93-lab/leetcode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sujalkathait93-lab/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sujalkathait93-lab/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/sujalkathait93-lab/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
 | ------- |
